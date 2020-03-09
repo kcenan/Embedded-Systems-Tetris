@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "tetris", "tetris\tetris.cproj", "{166CDDB8-BFDE-4BFF-9F47-E8E39C0AC7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166CDDB8-BFDE-4BFF-9F47-E8E39C0AC7CA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{166CDDB8-BFDE-4BFF-9F47-E8E39C0AC7CA}.Debug|AVR.Build.0 = Debug|AVR
+		{166CDDB8-BFDE-4BFF-9F47-E8E39C0AC7CA}.Release|AVR.ActiveCfg = Release|AVR
+		{166CDDB8-BFDE-4BFF-9F47-E8E39C0AC7CA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
